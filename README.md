@@ -26,20 +26,10 @@ int main(){
 :joy:
 
 愚蠢
-: 就像现在看文件的你
+    : 就像现在看文件的你
+    : 蠢蛋
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
-    
+[hello](这是一种打招呼的方式 "什么是愚蠢")
    
 ***
 
@@ -49,8 +39,8 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 ***强调***
 
--11111111111
--22222222222222
--3333333333333
+- 11111111111
+- 22222222222222
+- 3333333333333
 
 换行  换行
